@@ -9,12 +9,15 @@ Digital VLSI SOC Design and Planning
   cd openlane_working_dir
   cd openlane
 ![1a](https://github.com/BhanuBangari/DIGITAL-SOC-DESIGN-AND-PLANNING/assets/166434514/e23aa061-e61a-4856-be77-2aa5cf834b61)
-
+# 
 After getting into the directory, enter the commands
-
+#  
   docker
+  
   pwd
+  
   ls -ltr
+  
 To open the openlane in interactive mode,
 
  ./flow.tcl -interactive
